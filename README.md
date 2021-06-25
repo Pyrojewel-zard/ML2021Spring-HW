@@ -6,7 +6,7 @@
 | HW3  | CNN            | 0.57168 | 0.55349 |
 | HW4  | Self-Attention | 0.95809 | 0.95833 |
 | HW5  | Transformer    | 24.13   | 23.47   |
-| HW6  | GAN            | 0.57168 | 0.55349 |
+| HW6  | GAN            | ? | ? |
 | HW7  | Bert           | 0.79509 | 0.80458 |
 | HW8  | Anomaly Detection | 0.81933 | 0.81143 |
 | HW9  | Explainable AI | X | X |
